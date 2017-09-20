@@ -12,7 +12,7 @@ body {
 .container {
     margin-left: auto;
     margin-right: auto;
-    width: 930px;
+    width: 830px;
     background-color: white;
     margin-bottom: 0;
 }
@@ -53,23 +53,23 @@ main p {
     font-size: 18px;
     margin-left: 8px;
 }
-.top-left {
+img.top-left {
     float: left;
     margin: 0px 24px 12px 0px;
 }
-.mid-right {
+img.mid-right {
     float: right;
-    margin: 0px 0px 12px 24px;
+    margin: 24px 0px 24px 12px;
 }
-.bottom-left {
+img.bottom-left {
     float: left;
-    margin: 2px 24px 12px 0px
+    margin: 24px 24px 12px 0px
 }
 #vloot11 {
     width: 200px;
     height: 150px;
 }
-#onderzeeer img{
-    width: 400px;
-    height: 300px;
+#onderzeeer{
+    width: 350px;
+    height: 250px;
 }
